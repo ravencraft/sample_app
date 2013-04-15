@@ -21,8 +21,8 @@ test:
 production:
   adapter: mysql2
   encoding: utf8
-  database: sample_db
-  username: sample_app
-  password: qew22
+  database: *****
+  username: *****
+  password: *****
   host: 127.0.0.1
   port: 3306
